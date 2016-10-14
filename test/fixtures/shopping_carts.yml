@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  produc_references: MyString
+  user: one
+
+two:
+  produc_references: MyString
+  user: two

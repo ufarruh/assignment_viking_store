@@ -9,7 +9,14 @@ The Viking Store e-commerce application for Viking Commerce Inc
 
 ### Users
 
-+ 1 id
-+ 2 first_name, required field, string
-+ 3 last_name, required field, string
-+ 4 email, valid format, required field, string
++ id
++ first_name, required, string
++ last_name, required, string
++ email, valid format, required  string
+
+### Products 
+  + id primary key
+  + title, required, string
+  + description, required  text
+  + price, decimal, required
+  + SKU_number, integer, required
